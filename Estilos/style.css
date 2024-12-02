@@ -1,0 +1,15 @@
+:root{
+    --bg-color: #432E54;
+    --primary-color: #4B4376;
+    --secondary-color: #AE445A;
+    --hg-color: #E8BCB9;
+    background-color: var(--bg-color);
+    color: var(--hg-color);
+    width: 100vw;
+    height: 500vh;
+    margin: 0;
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
